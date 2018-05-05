@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo java</string>
+    <string name="nameHint">Nombre</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Orden</string>
+    <string name="thanks">Gracias</string>
+    <string name="order_summary_name">Nombre: (Amy)</string>
+    <string name="email_subject">Solojava orden para: (Amy)</string>
+    <string name="zero_cups">No puedes pedir menos de 0 tazas</string>
+    <string name="hundred_cups">No puedes pedir mas de 100 tazas</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="add_whipped">Anadir crema batida?</string>
+    <string name="add_chocolate">Anadir choclate?</string>
+    <string name="quantity_summary">"Cantidad: "</string>
+    <string name="total_due">total debido: $</string>
+</resources>
